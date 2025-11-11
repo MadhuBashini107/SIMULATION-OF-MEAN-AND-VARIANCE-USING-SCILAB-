@@ -85,7 +85,5 @@ __OUTPUT GRAPH:__
 
 <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/82ac82d7-4470-42f5-960d-f99e9f6b8222" />
 
-
-
 __RESULT:__
 Hence, mean and variance are simulated in Scilab using the program mentioned above.
