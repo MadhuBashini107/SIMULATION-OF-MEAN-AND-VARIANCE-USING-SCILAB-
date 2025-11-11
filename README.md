@@ -88,4 +88,4 @@ __OUTPUT GRAPH:__
 
 
 __RESULT:__
-
+Hence, mean and variance are simulated in Scilab using the program mentioned above.
